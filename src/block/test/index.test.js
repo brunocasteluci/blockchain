@@ -1,4 +1,4 @@
-const Block = require('../block');
+const Block = require('../index');
 
 describe('Block', () => {
   let data, lastBlock, block;
